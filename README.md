@@ -2,7 +2,7 @@
 Woobi SDK for Android
 
 ## Getting Started
-To get started, here is the link to [Android SDK documentation](wiki)
+To get started, here is the link to [Android SDK documentation](wiki).
 
 ## Contact Us
 For more information, please visit [woobi.com](http://woobi.com/).  
