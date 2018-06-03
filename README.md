@@ -13,4 +13,4 @@ To get started with the Android SDK, please follow this link [Android SDK docume
 ## Contact Us
 If you wish to integrate Woobi SDK into any commercial applications, please register an account and accept the T&C.
 
-For more information and support, please contact woobi.com/support or reach out to your dedicated account manager
+For more information and support, please contact [woobi.com/support](http://woobi.com/support/) or reach out to your dedicated account manager
