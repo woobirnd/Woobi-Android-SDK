@@ -7,6 +7,11 @@ Woobi programmatic branded video advertising SDK, enables games and entertainmen
 
 Woobi SDK allows publishers both non-precached and pre-cache videos ads providing an efficient and smooth user experience.
 
+## Release Notes
+**1.6.0**
+* GDPR - The publisher can update the GDPR state and the user Consent. The default state is GDPR = false.
+* Custom params - You can now add new parameters to the main extension of the RTB request. In order to activate this feature, please call to you account manager.
+
 ## Getting Started
 To get started with the Android SDK, please follow this link [Android SDK documentation](https://github.com/woobirnd/Woobi-Android-SDK/wiki).
 
